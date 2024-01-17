@@ -1,0 +1,4 @@
+.body-root {
+  display: flex;
+  column-gap: 10px;
+}
